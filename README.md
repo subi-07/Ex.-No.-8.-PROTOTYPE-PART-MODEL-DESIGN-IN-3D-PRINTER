@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2025-04-17 162518](https://github.com/user-attachments/assets/a68863de-d711-4bcd-a200-b64a22b3d733)
 
-### Name:
-### Register Number:
+### Name:SUBITHRA R
+### Register Number:212224110050
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
